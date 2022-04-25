@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Blazor**
 
-- 👨‍💻 All of my projects are available at [http://shimulicedric-001-site1.ftempurl.com/](http://shimulicedric-001-site1.ftempurl.com/)
+- 👨‍💻 All of my projects are available at: [http://shimulicedric-001-site1.ftempurl.com/](Website)
 
 - 💬 Ask me about **Dotnet Core, Xamarin forms**
 
 - 📫 How to reach me **shimulicedric@gmail.com**
 
-- 📄 Know about my experiences [http://shimulicedric-001-site1.ftempurl.com/images/info/cf625770-0fba-4d27-bd9f-6d7172ba5f0e.pdf](http://shimulicedric-001-site1.ftempurl.com/images/info/cf625770-0fba-4d27-bd9f-6d7172ba5f0e.pdf)
+- 📄 Know about my experiences: [http://shimulicedric-001-site1.ftempurl.com/images/info/cf625770-0fba-4d27-bd9f-6d7172ba5f0e.pdf](Shimuli Cedric Resume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
