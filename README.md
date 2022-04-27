@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/shimuli_cedric" target="blank"><img src="https://img.shields.io/twitter/follow/shimuli_cedric?logo=twitter&style=for-the-badge" alt="shimuli_cedric" /></a> </p>
 
-- 🌱 I’m currently learning **Blazor**
+- 🌱 I’m currently learning **Blazor** and **.NET MAUI**
 
 - 👨‍💻 All of my projects are available at: [http://shimulicedric-001-site1.ftempurl.com/](Website)
 
