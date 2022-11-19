@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Blazor** and **.NET MAUI**
 
-- 👨‍💻 All of my projects are available at: [http://shimulicedric-001-site1.ftempurl.com/](Website)
-
 - 💬 Ask me about **Dotnet Core, Xamarin forms**
 
 - 📫 How to reach me **shimulicedric@gmail.com**
