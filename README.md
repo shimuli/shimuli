@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://twitter.com/shimuli_cedric" target="blank"><img src="https://img.shields.io/twitter/follow/shimuli_cedric?logo=twitter&style=for-the-badge" alt="shimuli_cedric" /></a> </p>
 
-- 🌱 I’m currently learning **Blazor** and **.NET MAUI**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Dotnet Core, Xamarin forms**
+- 💬 Ask me about **Dotnet Core**
 
 - 📫 How to reach me **shimulicedric@gmail.com**
 
-- 📄 Know about my experiences: [https://shimuli.github.io/cedricshimuli-website/images/cv.pdf](Shimuli Cedric Resume)
+- 📄 Know about my experiences: [https://www.linkedin.com/in/cedric-shimuli-b24872151/](Shimuli Cedric)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
