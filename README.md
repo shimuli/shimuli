@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shimuli Cedric</h1>
-<h3 align="center">I am a software engineer based in Nairobi, Kenya.</h3>
+<h3 align="center">Software Engineer based in Nairobi, Kenya.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimuli&label=Profile%20views&color=0e75b6&style=flat" alt="shimuli" /> </p>
